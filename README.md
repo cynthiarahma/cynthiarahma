@@ -25,3 +25,4 @@ Daftar pustaka:
 [5]	https://stunting.go.id/kemenkes-permenkes-no-492-tahun-2010-tentang-persyaratan-kualitas-air-minum/, 19 Oktober 2023, 18.47
 [6]	Hendrawati, Trisiani D., Maulana, Nirfan., Tahtawi, Adnan R. A., Sistem Pemantauan Kualitas Air Sungai di Kawasan Industri Berbasis WSN dan IOT, 2019
 [7]	https://www.republika.id/posts/37697/krisis-air-mengancam-dunia, 26 Oktober 19.55 
+
