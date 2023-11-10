@@ -1,2 +1,6 @@
 Praktikum 6 - Permainan Tic Tac Toe
 
+import tkinter as tk
+from enum import Enum
+
+
